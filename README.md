@@ -1,7 +1,7 @@
 #  About
 
 - Uses pandas, matplotlib, and seaborn to web scrape basketball-reference.com for a particular player and their stats
-- Grabs the data the user wants and plots it as a linegraph to help visualize the stats better
+- Grabs the data the user wants and plots it as a line graph to help visualize the stats better
 
 
 # Dependencies

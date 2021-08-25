@@ -2,7 +2,7 @@
 
 - Uses pandas, matplotlib, and seaborn to web scrape basketball-reference.com for a particular player and their stats
 - Grabs the data the user wants and plots it as a line graph to help visualize the stats better
-
+- I created a quick demo of how it works: https://www.youtube.com/watch?v=v-6EMF0Yw04&feature=youtu.be
 
 # Dependencies
 - ```pip install NumPy``` 
